@@ -1,14 +1,12 @@
-import { useState } from 'react'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <div className="container">
       <div className="content">
         <img 
-          src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" 
+          src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif" 
           alt="Funny Developer" 
           className="funny-image" 
         />
